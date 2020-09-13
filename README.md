@@ -1,0 +1,2 @@
+# RobotKinematics
+Completed with partner Aidan Anderson for the USF Course Control of Mobile Robotics. Contains python scripts used to make the provided Raspberry Pi Robot travel a user-inputted distance (Distance.py), rotate a user-inputted number of degrees (Orientation.py), trace over a rectangle of user-inputted height and width over a user-inputted timeframe (Rectangle.py), and trace over a half-circle of a user-inputted radius over a user-inputted timeframe (Circle.py).
